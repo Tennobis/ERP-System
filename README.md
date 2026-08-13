@@ -489,17 +489,3 @@ npm run build
 Upload the generated `dist/` directory to Vercel, Netlify, or AWS S3 + CloudFront.
 
 ---
-
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## Author & Contact
-
-**Developed by:** Engineering Team / Tennobis  
-**GitHub Repository:** [https://github.com/Tennobis/ERP-System](https://github.com/Tennobis/ERP-System)  
-**System Architecture & Lead Developer:** Full-Stack Enterprise Systems Architect
-
-> *ConstructX ERP — Engineering Excellence in Construction & Infrastructure Management.*
