@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/jest": "^30.0.0"
+  },
+  "dependencies": {
+    "vercel": "^46.0.2"
+  }
+}
